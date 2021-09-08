@@ -1,6 +1,7 @@
 # bmi_callculator
 
 A new Flutter application.
+This Project is Done By me , I am Doing My M.Tech From IIT Madras.
 
 ## Getting Started
 
